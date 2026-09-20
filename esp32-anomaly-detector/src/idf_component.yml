@@ -1,0 +1,3 @@
+dependencies:
+  # 1.4.1 mistura flags C++11/C++17 e falha com toolchains GCC recentes.
+  espressif/esp-tflite-micro: "1.3.7"
